@@ -6,6 +6,7 @@ int main(){
     float PI=3.14, area, ci;
     printf("enter radius of circle:");
     scanf("%d",&rad);
+    //area of circle
     area = PI * rad * rad;
     printf("\narea of the circle:%f",area);
     //Circumference calculation
